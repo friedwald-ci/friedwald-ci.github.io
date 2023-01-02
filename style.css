@@ -444,6 +444,13 @@ button{
 }
 }
 
+/* = Forms
+-------------------------------------------------------------- */
+
+.form-control{
+	border-color:rgba(0,0,0,.1);
+	box-shadow:none;
+}
 
 
 
@@ -845,6 +852,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .btn-hunter-green:hover{
 	background:#285722!important;
+	color:#FFFFFF!important;
+}
+.btn-hunter-green-2{
+	background:#306B29;
+	color:#FFFFFF!important;
+}
+.btn-hunter-green-2:hover{
+	background:#265621!important;
 	color:#FFFFFF!important;
 }
 
