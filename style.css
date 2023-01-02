@@ -18,6 +18,19 @@ body {
 	overflow: hidden;
 }
 
+/* Text Selection Start */
+::-moz-selection {
+	/* Code for Firefox */
+	color: #ffffff;
+	background: #326d2b;
+  }
+  
+  ::selection {
+	color: #ffffff;
+	background: #326d2b;
+  }
+  /* Text Selection End */
+
 /* Prevents unwanted scroll space when scroll FX used. */
 a,
 button {
