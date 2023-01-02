@@ -12,6 +12,7 @@ body {
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	scroll-behavior: smooth;
 }
 
 .page-container {
@@ -792,8 +793,10 @@ a {
 .h2-2-style {
 	font-family: "Raleway-Bold";
 	padding-left: 25px;
-	line-height: 40px;
+	font-size: 40px;
+	line-height: 52px;
 	color: #FFFFFF !important;
+	text-decoration: none;
 }
 
 .img-2-style {
