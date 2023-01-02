@@ -750,7 +750,8 @@ a {
 .p-2-style {
 	width: 100%;
 	font-family: "Raleway-Bold";
-	font-size: 48px;
+	font-size: 64px;
+	line-height: 68px;
 }
 
 .hinweis {
