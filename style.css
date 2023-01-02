@@ -797,6 +797,16 @@ a {
 	line-height: 52px;
 	color: #FFFFFF !important;
 	text-decoration: none;
+	transition: all 0.3s;
+}
+
+.h2-2-style:hover {
+	font-family: "Raleway-Bold";
+	padding-left: 50px;
+	font-size: 40px;
+	line-height: 52px;
+	color: #FFFFFF !important;
+	text-decoration: none;
 }
 
 .img-2-style {
