@@ -1207,7 +1207,7 @@ a {
 /* Bloc image backgrounds */
 
 .bg-hero {
-	background-image: url("img/hero.jpg");
+	background-image: url("img/hero.webp");
 }
 .bg-banner-2{
 	background-image:url("img/banner-2.svg");
