@@ -456,11 +456,11 @@ a:hover {
 
 /* Nav Special Close Button */
 .close-special-menu .close-icon {
-	background: #fff;
+	background: #000;
 }
 
 .blocsapp-special-menu blocsnav {
-	background: #000;
+	background: #fff;
 }
 
 /* Full Screen Navigation */
