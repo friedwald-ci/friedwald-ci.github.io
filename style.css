@@ -183,6 +183,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = NavBar
 -------------------------------------------------------------- */
 
+#font {
+	font-family:"Raleway-Medium";
+}
 
 /* Nav Special Classes */
 .nav-special{
