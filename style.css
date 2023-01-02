@@ -790,7 +790,7 @@ a {
 }
 
 .h2-2-style {
-	font-family: "CoFoSans-Medium";
+	font-family: "Raleway-Bold";
 	padding-left: 25px;
 	line-height: 40px;
 	color: #FFFFFF !important;
@@ -816,13 +816,13 @@ a {
 
 .btn-style {
 	font-size: 14px;
-	font-family: "CoFoSans-Regular";
+	font-family: "Raleway-Medium";
 	border-radius: 25px 25px 25px 25px;
 }
 
 .p-7-style {
 	font-size: 16px;
-	font-family: "CoFoSans-Regular";
+	font-family: "Raleway-Medium";
 	line-height: 20px;
 }
 
