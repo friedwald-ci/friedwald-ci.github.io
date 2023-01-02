@@ -743,8 +743,11 @@ a {
 
 .p-1-style {
 	width: 100%;
-	padding-bottom: 0px;
+	padding-bottom: 20px;
 	font-family: "Raleway-Medium";
+	font-size: 20px;
+	line-height: 24px;
+
 }
 
 .p-2-style {
