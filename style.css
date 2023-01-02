@@ -609,11 +609,6 @@ button {
 	outline: none !important;
 }
 
-
-
-
-
-
 .card-sq,
 .card-sq .card-header,
 .card-sq .card-footer {
@@ -725,19 +720,19 @@ a {
 
 .h1-my-guideline-style {
 	font-size: 72px;
-	font-family: "PlusJakartaSans-Medium";
+	font-family: "Raleway-SemiBold";
 	line-height: 86px;
 	padding-top: 64px;
 }
 
 .h4-123456789--style {
 	font-size: 36px;
-	font-family: "PlusJakartaSans-Regular";
+	font-family: "Raleway-Medium";
 }
 
 .h4-2-style {
 	font-size: 36px;
-	font-family: "PlusJakartaSans-Regular";
+	font-family: "Raleway-Medium";
 	line-height: px;
 }
 
