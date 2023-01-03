@@ -1180,17 +1180,17 @@ a {
 }
 
 .btn-hunter-green:hover {
-	background: #285722 !important;
+	background: #8ebf1f !important;
 	color: #FFFFFF !important;
 }
 
 .btn-hunter-green-2 {
-	background: #306B29;
+	background: #326D2B;
 	color: #FFFFFF !important;
 }
 
 .btn-hunter-green-2:hover {
-	background: #265621 !important;
+	background: #8ebf1f !important;
 	color: #FFFFFF !important;
 }
 
@@ -1198,10 +1198,16 @@ a {
 
 .ltc-black {
 	color: #000000 !important;
+	-webkit-transition:  border-bottom 3s ease;
+	-moz-transition:  border-bottom 3s ease;
+	-o-transition:  border-bottom 3s ease;
+	-ms-transition: border-bottom 3s ease;
+	transition: border-bottom 3s ease;
 }
 
 .ltc-black:hover {
 	color: #000000 !important;
+	border-bottom: 1px solid #000000;
 }
 
 /* Bloc image backgrounds */
