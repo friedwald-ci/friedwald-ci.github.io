@@ -709,11 +709,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h1-5-style{
 	font-family:"Raleway-Bold";
 	color:#316C2A!important;
-	padding-left:0px;
+	padding-left:200px;
 	padding-right:7px;
+	text-align: left !important;
 }
 .h3-padding-left{
-	padding-left:86px;
+	padding-left:200px;
 	font-family:"Raleway-Medium";
 }
 .bloc-padding-top{
