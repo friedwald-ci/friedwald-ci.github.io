@@ -110,6 +110,10 @@ a:hover{text-decoration: none; cursor:pointer;}
 	height:auto;
 }
 
+.trennlinie {
+	border-bottom: 2px solid #e3e3e3;
+}
+
 
 /* Dark theme */
 
