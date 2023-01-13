@@ -51,6 +51,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-style: normal;
 }
 
+@font-face {
+	font-family:'Raleway-Regular';
+	src: url('./fonts/Raleway-Regular/Raleway-Regular.ttf');
+	src: url('./fonts/Raleway-Regular/Raleway-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* = Blocs
 -------------------------------------------------------------- */
 
@@ -548,7 +556,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .p-2-style{
 	width:100%;
 	font-family:"Raleway-Bold";
-	font-size:48px;
+	font-size:64px;
+	line-height:72px;
 }
 .hinweis{
 	background-color:#F3F3F3;
@@ -580,26 +589,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h2-style{
 	font-family:"Raleway-Bold";
-	color:#000000!important;
-}
-.h2-2-style{
-	font-family:"Raleway-Bold";
-	padding-left:32px !important;
-	line-height:56px;
-	color:#FFFFFF!important;
-	font-size: 40px;
-	text-decoration: none;
-	transition: 0.4s all;
-}
-
-.h2-2-style:hover {
-	font-family:"Raleway-Bold";
-	padding-left:32px !important;
-	line-height:56px;
-	color:#FFFFFF!important;
-	font-size: 40px;
-	text-decoration: none;
-	margin-left: 24px;
 }
 .p-3-style{
 	font-size:32px;
@@ -689,7 +678,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .row-margin-left{
 	left:0px;
 	margin-left:0px;
-	border-style:_popUpItemAction;
+	border-style:_popUpItemAction:;
 	padding-left:0px;
 }
 .margin{
@@ -704,6 +693,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h1-5-style{
 	font-family:"Raleway-Bold";
 	color:#316C2A!important;
+	padding-left:0px;
+	padding-right:7px;
 }
 .h3-padding-left{
 	padding-left:86px;
@@ -864,8 +855,39 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	padding-bottom:1px;
 }
 .hero-typo{
-	font-size:56px;
-	line-height:64px;
+	font-size:64px;
+	line-height:72px;
+}
+.inhaltsverzeichnis{
+	color:#FFFFFF!important;
+}
+.p-48-style{
+	font-family:"Raleway-Medium";
+}
+.p-45-style{
+	font-family:"Raleway-Medium";
+}
+.p-43-style{
+	font-family:"Raleway-Medium";
+}
+.p-41-style{
+	font-family:"Raleway-Regular";
+}
+.p-39-style{
+	font-family:"Raleway-Medium";
+}
+.banner-extra{
+	color:#2E6627!important;
+}
+.bloc-bloc-8-padding-left{
+	padding-left:0px;
+}
+.ankerpunkte{
+	font-family:"Raleway-Bold";
+	color:#FFFFFF!important;
+	font-size:40px;
+	line-height:56px;
+	text-decoration: none;
 }
 
 /* = Colour
