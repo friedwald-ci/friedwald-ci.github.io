@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Raleway-Bold';
+	src: url('./font/Raleway-Bold/Raleway-Bold.woff2') format('woff2'),
+		url('./font/Raleway-Bold/Raleway-Bold.woff') format('woff'),
+		url('./font/Raleway-Bold/Raleway-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway-Medium';
+	src: url('./font/Raleway-Medium/Raleway-Medium.woff2') format('woff2'),
+		url('./fonts/Raleway-Medium/Raleway-Medium.woff') format('woff'),
+		url('./fonts/Raleway-Medium/Raleway-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Raleway-SemiBold';
+	src: url('./font/Raleway-SemiBold/Raleway-SemiBold.woff2') format('woff2'),
+		url('./font/Raleway-SemiBold/Raleway-SemiBold.woff') format('woff'),
+		url('./font/Raleway-SemiBold/Raleway-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway-Medium";
+  font-size: 16px;
+  margin: 36px 0 16px 36px;
+}
+
+input[type=file] {
+  margin: 0 0 0 36px;
+}
+
+input[type=text] {
+  text-align: left;
+  background-color: #ECF0F1;
+  border: 2px solid transparent;
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 200;
+  padding: 10px;
+  width: 450px;
+  border: 1px solid #03203A;
+  margin: 0 0 0 36px;
+}
