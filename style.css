@@ -731,10 +731,22 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Raleway-Bold";
 	color:#FFFFFF!important;
 	padding-top:16px;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 .p-22-style{
 	font-family:"Raleway-SemiBold";
 	padding-top:16px;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 .h1-raleway-medium-style{
 	font-family:"Raleway-Medium";
@@ -754,6 +766,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .custom{
 	font-family:"Raleway-SemiBold";
 	color:#FFFFFF!important;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 .p-26-padding-top{
 	padding-top:16px;
@@ -839,15 +857,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-50-style{
 	font-family:"Raleway-Medium";
+	color: #326d2b;
 }
 .h4-impressum-style{
 	font-family:"Raleway-Medium";
+	color: #326d2b;
 }
 .h4-style{
 	font-family:"Raleway-Medium";
+	color: #326d2b;
 }
 .h4-kontakt-style{
 	font-family:"Raleway-Medium";
+	color: #326d2b;
 }
 .h5-style{
 	font-family:"Raleway-SemiBold";
