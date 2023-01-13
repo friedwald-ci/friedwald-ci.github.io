@@ -775,6 +775,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-38-style{
 	font-family:"Raleway-Bold";
+
 }
 .h1-15-style{
 	font-family:"Raleway-Medium";
@@ -863,18 +864,48 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .p-48-style{
 	font-family:"Raleway-Medium";
+	-webkit-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum=1"; 
+  -ms-font-feature-settings: "lnum" 1; 
+  -o-font-feature-settings: "lnum" 1; 
+  font-feature-settings: "lnum" 1;
 }
 .p-45-style{
 	font-family:"Raleway-Medium";
+	-webkit-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum=1"; 
+  -ms-font-feature-settings: "lnum" 1; 
+  -o-font-feature-settings: "lnum" 1; 
+  font-feature-settings: "lnum" 1;
 }
 .p-43-style{
 	font-family:"Raleway-Medium";
+	-webkit-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum=1"; 
+  -ms-font-feature-settings: "lnum" 1; 
+  -o-font-feature-settings: "lnum" 1; 
+  font-feature-settings: "lnum" 1;
 }
 .p-41-style{
-	font-family:"Raleway-Regular";
+	font-family:"Raleway-Medium";
+	-webkit-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum=1"; 
+  -ms-font-feature-settings: "lnum" 1; 
+  -o-font-feature-settings: "lnum" 1; 
+  font-feature-settings: "lnum" 1;
 }
 .p-39-style{
 	font-family:"Raleway-Medium";
+	-webkit-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum" 1; 
+  -moz-font-feature-settings: "lnum=1"; 
+  -ms-font-feature-settings: "lnum" 1; 
+  -o-font-feature-settings: "lnum" 1; 
+  font-feature-settings: "lnum" 1;
 }
 .banner-extra{
 	color:#2E6627!important;
