@@ -529,6 +529,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Raleway-Bold";
 	font-size:64px;
 	line-height:px;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 .h3-style{
 	font-family:"Raleway-Medium";
@@ -567,6 +573,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Raleway-Bold";
 	font-size:16px;
 	line-height:24px;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 .h3-1-style{
 	font-family:"Raleway-Bold";
@@ -919,6 +931,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:40px;
 	line-height:56px;
 	text-decoration: none;
+	-webkit-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum" 1; 
+	-moz-font-feature-settings: "lnum=1"; 
+	-ms-font-feature-settings: "lnum" 1; 
+	-o-font-feature-settings: "lnum" 1; 
+	font-feature-settings: "lnum" 1;
 }
 
 /* = Colour
